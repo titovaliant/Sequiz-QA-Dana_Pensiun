@@ -44,6 +44,31 @@ class ReadConfig:
         SukuBunga=config.get('common info','suku_bunga')
         return SukuBunga
 
+    @staticmethod
+    def getEmail():
+        Email=config.get('common info','email')
+        return Email
+
+    @staticmethod
+    def getPhone():
+        Phone=config.get('common info','phone')
+        return Phone
+
+    @staticmethod
+    def getAddress():
+        Address=config.get('common info','address')
+        return Address
+
+    @staticmethod
+    def getUsiaKini2():
+        UsiaKini2=config.get('common info','UsiaKini2')
+        return UsiaKini2
+
+    @staticmethod
+    def getUsiaPensiun2():
+        UsiaPensiun2=config.get('common info','UsiaPensiun2')
+        return UsiaPensiun2
+
     
     
         
