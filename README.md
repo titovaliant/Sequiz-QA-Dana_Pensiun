@@ -91,4 +91,4 @@ To run Invalid Login tests only, navigate to `/testCases` directory and run:
 
 ### *DEMO VIDEO*:
 
-[Tes Automation Hitung Dana Pensiun Sequis WEB.mp4](https://github.com/titovaliant/Sequiz-QA-Dana_Pensiun-WEB/blob/2eb1fbdb2f8f63bdcacfb824d1e27a73ad25ca63/Tes%20Automation%20Hitung%20Dana%20Pensiun%20Sequis%20WEB.mp4) 
+https://user-images.githubusercontent.com/.github/Tes Automation Hitung Dana Pensiun Sequis WEB.mp4
