@@ -18,12 +18,7 @@ Prepared by:
 
     Hybrid driven framework
 
-## 1. A detailed test cases 
-You can see all the Manual Testing Documentation by following this link below:
-
-<a href="https://docs.google.com/spreadsheets/d/1hgLmoNVobe1XqgH3Cte2qNL4rGBdz0infacAozNEuqk/edit?usp=sharing">TestCases-Populix-LoginPage-Tito</a>
-
-## 2. Requirements and Tools
+## 1. Requirements and Tools
 
 In order to utilise this project you need to have the following installed locally:
 
@@ -56,7 +51,7 @@ In order to utilise this project you need to have the following installed locall
     ```
     $ pip install virtualenv`
     ```
-## 3. Reporting
+## 2. Reporting
 
 Reports for each module are written into their respective `/Reports` directories after a successful run with HTML Reports format.
 
@@ -64,7 +59,7 @@ Log tests result in a .log report for each feature/testCases in folder `/Logs/te
 
 In the case of test failures, a screen-shot of the UI at the point of failure is embedded into the report in folder `/Screenshots`.
 
-## 4. Usage/How to Run
+## 3. Usage/How to Run
 
 The project is broken into separate Folder and Package.
 
@@ -91,4 +86,4 @@ To run Invalid Login tests only, navigate to `/testCases` directory and run:
 
 ### *DEMO VIDEO*:
 
-https://github.com/titovaliant/Sequiz-QA-Dana_Pensiun-WEB/blob/bdc3e1a04a5419a4346c4df7fb4dcdea9421e890/Demo%20Video_Tes%20Automation%20Hitung%20Dana%20Pensiun%20Sequis%20WEB.mp4
+<a href="https://github.com/titovaliant/Sequiz-QA-Dana_Pensiun-WEB/blob/bdc3e1a04a5419a4346c4df7fb4dcdea9421e890/Demo%20Video_Tes%20Automation%20Hitung%20Dana%20Pensiun%20Sequis%20WEB.mp4">Demo Video - Sequis - Tito</a>
