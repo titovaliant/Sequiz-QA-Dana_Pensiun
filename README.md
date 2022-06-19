@@ -2,7 +2,8 @@
 Automation Using Selenium Hybrid Framework
 (Python, Selenium, PyTest, Page Object Model, HTML Reports)
 
-Berikut adalah script automation untuk menghitung dana pensiun pada website sequis.co.id menggunakan tools dan/atau framework selenium dan python
+Berikut adalah script automation untuk menghitung dana pensiun pada website sequis.co.id 
+menggunakan tools dan/atau framework selenium dan python
 
 Prepared by:
 **Tito Valiant Muhammad - Tester Engineer Candidate**
