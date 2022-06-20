@@ -16,7 +16,7 @@ Prepared by:
 
 2). Customized/User defined frameworks
 
-    Hybrid driven framework
+    Keyword driven framework and POM
 
 ## 1. Requirements and Tools
 
